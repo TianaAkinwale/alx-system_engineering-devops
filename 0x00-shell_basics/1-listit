@@ -1,2 +1,4 @@
 #!/bin/bash
-line 2
+echo 'ls'> 1-list
+chmod 755 1-list
+
