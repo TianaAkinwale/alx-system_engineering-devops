@@ -1,0 +1,1 @@
+Atask about shell permissions
